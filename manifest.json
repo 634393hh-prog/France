@@ -1,0 +1,11 @@
+{
+  "name": "Français — رحلتك إلى الطلاقة",
+  "short_name": "Français",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#101827",
+  "description": "تعلّم الفرنسية من A1 إلى C2 دون إنترنت"
+}
